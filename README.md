@@ -42,14 +42,17 @@ Se requiere el análisis analítico del circuito mostrado en la figura 1.1. Anot
 
 
 
+1.5.	PROCEDIMIENTO
+
+1.5.1.	Arme el circuito que se muestra en la figura 1.1.
+
+1.5.2.	Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla 1.1.
 
 
+Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
 
 
-
-
-
-1.5.3 Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. Anote los resultados en la tabla 1.2.
+1.5.3.	Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. Anote los resultados en la tabla 1.2.
 
 CALCULO DEL VOLTAJE DE CADA ELEMENTO:
 
