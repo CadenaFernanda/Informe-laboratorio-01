@@ -1,7 +1,7 @@
 
 ![image](https://user-images.githubusercontent.com/84427371/121131774-ddfa1080-c7f5-11eb-9d5d-a74248830761.png)
 
-OBJETIVO DE LA PRÁCTICA
+1.1OBJETIVO DE LA PRÁCTICA
 
 OBJETIVO GENERAL:
 
@@ -13,13 +13,13 @@ Verificar el cumplimiento de la regla de kirchhoff de voltajes.
 Verificar el cumplimiento de la regla de kirchhoff de corriente.
  Realizar el procedimiento en un simulador llamado Tinkercad.
 
-REQUISITOS PREVIOS.
+1.2 REQUISITOS PREVIOS.
 
 Se requiere el análisis analítico del circuito mostrado en la figura 1.1. Anote los resultados obtenidos en las tablas 1.1, 1.2. y 1.3.
 
-INFORMACIÓN GENERAL
+1.3 INFORMACIÓN GENERAL
 
-MARCO TEÓRICO:
+1.4 MARCO TEÓRICO:
 
 ![image](https://user-images.githubusercontent.com/84427371/121132057-43e69800-c7f6-11eb-842a-7553035c04b8.png)
 
@@ -49,39 +49,36 @@ MARCO TEÓRICO:
 
 
 
+1.5.3 Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. Anote los resultados en la tabla 1.2.
 
+CALCULO DEL VOLTAJE DE CADA ELEMENTO:
 
+TRAYECTO 1
 
+![image](https://user-images.githubusercontent.com/84427371/121132704-16e6b500-c7f7-11eb-8c48-18411298d775.png)
 
+TRAYECTO 2
 
+![image](https://user-images.githubusercontent.com/84427371/121132765-2960ee80-c7f7-11eb-8950-df9aa2033a7b.png)
 
+PORCENTAJE DE ERROR EN EL VOLTAJE 
 
+TRAYECTO 1
 
+![image](https://user-images.githubusercontent.com/84427371/121132916-58776000-c7f7-11eb-9d35-2ffa3cbb0c65.png)
 
+TRAYECTO 2
 
+![image](https://user-images.githubusercontent.com/84427371/121132962-662ce580-c7f7-11eb-904f-a0de4d228f1b.png)
 
+Tabla 1.2. Verificación de la LVK.
 
-1.5.	PROCEDIMIENTO
+![image](https://user-images.githubusercontent.com/84427371/121133401-e3f0f100-c7f7-11eb-905d-5c40d9c66d4c.png)
 
-1.5.1.	Arme el circuito que se muestra en la figura 1.1.
+1.5.4 Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen del nodo. Anote los resultados en la tabla 1.3.
 
-1.5.2.	Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla 1.1.
-
-Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
-
-1.5.3.	Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. Anote los resultados en la tabla 1.2.
- 
-
-
-
-Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen del nodo. Anote los resultados en la tabla 1.3.
-
-Tabla 1.3. Verificación de la LCK.
 
 CALCULO DE LA CORRIENTE EN CADA ELEMENTO:
-
-![image](https://user-images.githubusercontent.com/84587120/121130964-be161d00-c7f4-11eb-968f-acff18034049.png)
-
 NODO1:
 
 ![image](https://user-images.githubusercontent.com/84587120/121131017-cf5f2980-c7f4-11eb-8dcd-fcd3bcc1cf13.png)
@@ -93,6 +90,8 @@ NODO2:
 ![image](https://user-images.githubusercontent.com/84587120/121131073-e867da80-c7f4-11eb-8a46-9a8a733570e2.png)
 
 ![image](https://user-images.githubusercontent.com/84587120/121131229-1816e280-c7f5-11eb-9b52-8d1e63cba4eb.png)
+
+Tabla 1.3. Verificación de la LCK.
 
 ![image](https://user-images.githubusercontent.com/84587120/121130845-9757e680-c7f4-11eb-969e-916aa6a89176.png)
 
