@@ -37,6 +37,7 @@ Se requiere el análisis analítico del circuito mostrado en la figura 1.1. Anot
 
 DIAGRAMA ESQUEMATICO
 
+![image](https://user-images.githubusercontent.com/84587091/121144620-c590f280-c803-11eb-928f-039b453f6cf3.png)
 
 
 1.6.2.	Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla 1.1.
