@@ -45,8 +45,7 @@ DIAGRAMA ESQUEMATICO
 
 Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
 
-![image](https://user-images.githubusercontent.com/84587091/121136708-8e1e4800-c7fb-11eb-985a-7904ef686ca6.png)
-
+![image](https://user-images.githubusercontent.com/84587091/121234677-9ad18900-c859-11eb-9cf9-8952c676b79e.png)
 
 1.5.3.	Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. Anote los resultados en la tabla 1.2.
 
