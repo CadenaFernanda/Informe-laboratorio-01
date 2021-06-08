@@ -43,7 +43,7 @@
 
 
 
-1.5.4 Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen del nodo. Anote los resultados en la tabla 1.3.
+Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen del nodo. Anote los resultados en la tabla 1.3.
 
 Tabla 1.3. Verificación de la LCK.
 
@@ -65,7 +65,11 @@ NODO2:
 
 ![image](https://user-images.githubusercontent.com/84587120/121130845-9757e680-c7f4-11eb-969e-916aa6a89176.png)
 
-1.55 CONCLUSIONES:
+5. video: 
+
+Link: 
+
+7. CONCLUSIONES:
  
 Después de realizar el respectivo análisis a la teoría y práctica , utilizar los métodos,cálculos  ya conocidos y mencionados con anterioridad sobre la ley  de  Kirchhoff ,podemos concluir que:
 
@@ -75,7 +79,7 @@ Verificamos en la tabla 1.2. que si se cumple la Ley de Kirchhoff de Voltajes en
 
 Verificamos los resultados en la tabla 1.3 que si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, esto también tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen del nodo.
 
-Bibliografía: 
+7. Bibliografía: 
 
 Electricasas. (s.f.). electricasas.com. Obtenido de Leyes de Kirchhoff. Primera y segunda ley, concepto, fórmulas y ejemplos: https://www.electricasas.com/leyes-de-kirchhoff-primera-y-segunda-ley-concepto-formulas-y-ejemplos/#:~:text=Ahora%20que%20sabemos%20cual%20es,es%20igual%20a%20ER2%20%3D%20R2%20.
 
