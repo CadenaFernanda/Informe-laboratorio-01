@@ -1,5 +1,6 @@
 
 ![image](https://user-images.githubusercontent.com/84427371/121131774-ddfa1080-c7f5-11eb-9d5d-a74248830761.png)
+
 OBJETIVO DE LA PRÁCTICA
 
 OBJETIVO GENERAL:
