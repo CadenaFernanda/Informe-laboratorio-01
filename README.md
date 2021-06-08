@@ -95,7 +95,7 @@ Tabla 1.3. Verificación de la LCK.
 
 5. video: 
 
-Link: https://youtu.be/qiJCTAdCAgQ 
+Link: https://youtu.be/gFm5di7FsmE 
 
 7. CONCLUSIONES:
  
