@@ -23,6 +23,10 @@ Se requiere el análisis analítico del circuito mostrado en la figura 1.1. Anot
 
 ![image](https://user-images.githubusercontent.com/84427371/121132057-43e69800-c7f6-11eb-842a-7553035c04b8.png)
 
+1.5 MATERIAL Y EQUIPO REQUERIDO
+
+
+![Uploading image.png…]()
 
 
 
@@ -40,9 +44,7 @@ Se requiere el análisis analítico del circuito mostrado en la figura 1.1. Anot
 
 
 
-
-
-1.5.	PROCEDIMIENTO
+1.5.0	PROCEDIMIENTO
 
 1.5.1.	Arme el circuito que se muestra en la figura 1.1.
 
