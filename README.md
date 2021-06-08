@@ -25,33 +25,26 @@ Se requiere el análisis analítico del circuito mostrado en la figura 1.1. Anot
 
 1.5 MATERIAL Y EQUIPO REQUERIDO
 
+![image](https://user-images.githubusercontent.com/84587091/121135973-b48fb380-c7fa-11eb-8295-d39b613c9631.png)
 
-![Uploading image.png…]()
+1.6	PROCEDIMIENTO
 
+1.6.1.	Arme el circuito que se muestra en la figura 1.1.
 
+![image](https://user-images.githubusercontent.com/84587091/121136137-ebfe6000-c7fa-11eb-8a95-c0c9b182d390.png)
 
+![image](https://user-images.githubusercontent.com/84587091/121136360-2e27a180-c7fb-11eb-9442-5ab928932dc2.png)
 
-
-
-
-
-
-
-
+DIAGRAMA ESQUEMATICO
 
 
 
-
-
-
-1.5.0	PROCEDIMIENTO
-
-1.5.1.	Arme el circuito que se muestra en la figura 1.1.
-
-1.5.2.	Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla 1.1.
+1.6.2.	Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla 1.1.
 
 
 Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
+
+![image](https://user-images.githubusercontent.com/84587091/121136708-8e1e4800-c7fb-11eb-985a-7904ef686ca6.png)
 
 
 1.5.3.	Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. Anote los resultados en la tabla 1.2.
