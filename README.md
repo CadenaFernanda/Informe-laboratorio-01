@@ -69,7 +69,7 @@ NODO2:
 
 Link: 
 
-7. CONCLUSIONES:
+6. Conclusiones:
  
 Después de realizar el respectivo análisis a la teoría y práctica , utilizar los métodos,cálculos  ya conocidos y mencionados con anterioridad sobre la ley  de  Kirchhoff ,podemos concluir que:
 
